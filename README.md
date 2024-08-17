@@ -8,7 +8,7 @@ This repository demonstrates a machine learning pipeline for predicting loan app
 3. **Classification Model Training** : Development and training of a classification model to predict loan application outcomes.
 
 ## Algorithm used
-1. ** Random Forest
+1. Random Forest
 2. Gradient Boosting
 3. Logistic Regression
 4. XGBoost
