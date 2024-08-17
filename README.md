@@ -6,3 +6,11 @@ This repository demonstrates a machine learning pipeline for predicting loan app
 1. **Data Analysis**: Comprehensive analysis of loan application data to uncover patterns and insights.
 2. **Data Visualization**: Visualizations to understand data distributions and relationships between features.
 3. **Classification Model Training** : Development and training of a classification model to predict loan application outcomes.
+
+## Algorithm used
+1. ** Random Forest
+2. Gradient Boosting
+3. Logistic Regression
+4. XGBoost
+5. K-Nearest Neighbors
+6. Support Vector Machines
